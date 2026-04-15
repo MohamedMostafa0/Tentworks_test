@@ -896,7 +896,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &299752336
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4787,8 +4787,8 @@ MonoBehaviour:
   interactionTitleText: {fileID: 1458383664}
   okButton: {fileID: 591627849}
   okButtonText: {fileID: 1313579673}
-  finalScoreText: {fileID: 0}
-  newHighScoreObject: {fileID: 0}
+  finalScoreText: {fileID: 1883281367}
+  newHighScoreObject: {fileID: 425771713}
 --- !u!4 &1699047738
 Transform:
   m_ObjectHideFlags: 0
